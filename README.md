@@ -17,3 +17,4 @@
 
 ### Result
 * [Running web application](http://localhost:8040/contacts/list)
+* [Swagger page for REST](http://localhost:8080/swagger-ui.html)

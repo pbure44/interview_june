@@ -16,3 +16,5 @@ CREATE TABLE contacts
     aboutContact VARCHAR NOT NULL,
     address      VARCHAR NOT NULL
 );
+
+INSERT INTO contacts (id, name, surname, birthday, login, password, aboutcontact, address) VALUES (100, 'Pavel', 'Burenok', '1984-12-19', 'burenok', 'asd12345', 'Our new junior developer', 'Kyiv');
